@@ -1,4 +1,4 @@
-# MUSDC:  MUSD
+# MUSDC:  MUSDC
 MUSDC is a yield-generating ERC-20 token designed to integrate with the Aave lending pool. It allows users to deposit USDC, earn yields, and manage their funds seamlessly.
 
 ## Features
